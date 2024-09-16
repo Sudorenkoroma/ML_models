@@ -30,8 +30,3 @@ This repository contains various machine learning models implemented. Each model
      - Early stopping and model checkpointing for optimization.
    - **Dataset**: IMDb movie reviews
 
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ML_models.git
-   cd ML_models
