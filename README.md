@@ -35,3 +35,11 @@ This repository contains various machine learning models implemented for job app
      - Preprocessing includes tokenization and sequence padding.
      - Capable of fine-tuning and text classification for different tasks.
    - **Dataset**: Custom text input for sentiment analysis.
+
+5. **BERT_model_tensor**  
+   This file contains a model based on BERT (Bidirectional Encoder Representations from Transformers) for text classification. BERT is a state-of-the-art model designed to handle a wide range of Natural Language Processing (NLP) tasks, including text classification, question answering, and more. In this implementation, BERT is fine-tuned for a specific text classification task.
+   - **Key Features**:
+     - Utilizes pre-trained BERT from TensorFlow Hub.
+     - Fine-tuning on specific text classification datasets.
+     - Tokenization using BERT's WordPiece tokenizer.
+   - **Dataset**: Custom dataset for text classification.
